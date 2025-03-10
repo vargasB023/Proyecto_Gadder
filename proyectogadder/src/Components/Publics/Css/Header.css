@@ -1,0 +1,12 @@
+
+.header{
+    background-color: #56a6d5;
+}
+
+.font-face {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 200 700;
+    font-display: swap;
+    src: url("/fonts/Oswald.woff2") format("woff2");
+  }
