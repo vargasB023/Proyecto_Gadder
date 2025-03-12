@@ -1,0 +1,23 @@
+.Botoniniciosesion {
+  background-color: #eb5345;
+  color: white;
+  padding: 8px 20px;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .Botoniniciosesion {
+    padding: 6px 15px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .Botoniniciosesion {
+    padding: 5px 12px;
+    font-size: 12px;
+  }
+}
